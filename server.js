@@ -5,7 +5,9 @@ const logger = require('./src/utils/winston');
 const connectToDatabase = require('./src/config/database')
 
 // Connect to MongoDB
-connectToDatabase();
+// 
+
+
 
 const PORT = config.port;
 let server;

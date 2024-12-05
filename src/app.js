@@ -41,7 +41,7 @@ app.use(morgan(morganFormat, { stream: morganStream })); // HTTP logging
 
 // Centralized Error Handling Middleware
 
-app.get('/', (req, res) => res.send('Hello, World!'));
+app.get('/', (req, res) => res.status(403).json({ message:"forbidden"}));
 
 // Routes
 

@@ -33,6 +33,6 @@ mongoose.connection.on('disconnected', () => {
 });
 
 // Start the initial connection attempt
-connectToDatabase();
+// connectToDatabase();
 
 module.exports = connectToDatabase;
