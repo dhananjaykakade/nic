@@ -1,0 +1,15 @@
+04/12/2024, 21:53:42 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 21:53:42 [INFO]: GET /api/v1/user 500 154 - 3.275 ms
+04/12/2024, 21:53:51 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 21:53:53 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 21:53:57 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 21:53:59 [INFO]: GET /api/v1/user 200 206 - 2.788 ms
+04/12/2024, 22:04:57 [WARN]: Received shutdown signal, shutting down gracefully...
+04/12/2024, 22:10:37 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 22:10:48 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 22:18:23 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 22:18:24 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 22:19:03 [WARN]: Received shutdown signal, shutting down gracefully...
+04/12/2024, 22:22:01 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 22:22:07 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
+04/12/2024, 22:23:43 [INFO]: Server running on port 6789 in development mode. Link: http://localhost:6789
